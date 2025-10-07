@@ -40,17 +40,17 @@ You can manually test the app by:
 
 - Searching for different cities in the search bar.
 
-- Verifying the last searched city persists after page refresh.
+- Verifying the **last searched city persists** after page refresh.
 
-- Checking that weather data updates correctly for different locations.
+- Checking that **weather data updates correctly** for different locations.
 
-- Ensuring weather icons correspond to the current weather conditions.
+- Ensuring **weather icons correspond** to the current weather conditions.
 
-- Confirming that a clear error message is displayed when an invalid city name is entered.
+- Confirming that **a clear error message** is displayed when an invalid city name is entered.
 
-- Verifying the 6-day forecast view is displayed and accurate.
+- Verifying the **6-day forecast view** is displayed and accurate.
 
-- Checking that the design remains responsive and user-friendly on all devices.
+- Checking that the design remains **responsive and user-friendly** on all devices.
 
 ## 4. Assumptions & Design Choices
 
