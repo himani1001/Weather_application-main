@@ -34,7 +34,7 @@ A simple Weather Application built with React that allows users to search for an
 
 ## 3. Running Test Cases
 
-Currently, this project does not include automated test cases.
+- Currently, this project does not include automated test cases.
 You can manually test the app by:
 
 Searching for different cities in the search bar.
