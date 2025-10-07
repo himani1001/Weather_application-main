@@ -1,6 +1,6 @@
 # Weather App
 
-🌐 **Live Demo:** [https://himani-weatherapp.netlify.app/](https://himani-weatherapp.netlify.app/)
+🌐 **Live:** [https://himani-weatherapp.netlify.app/](https://himani-weatherapp.netlify.app/)
 
 ---
 
