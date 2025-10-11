@@ -1,9 +1,3 @@
-# Weather App
-
-🌐 **Live:** [https://himani-weatherapp.netlify.app/](https://himani-weatherapp.netlify.app/)
-
----
-
 ## 1. Project Description
 A simple Weather Application built with React that allows users to search for any city and view current weather conditions, wind speed, humidity, heat index, and a 6-day forecast. The app also remembers the last searched city using localStorage.
 
